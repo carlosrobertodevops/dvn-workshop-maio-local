@@ -11,10 +11,11 @@ resources:
 
 images:
   - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop/production/backend
-    newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop/production/backend
+    newName: localhost:5001/dvn-workshop/production/backend
     newTag: sha-8ee10e2
+
   - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop/production/frontend
-    newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-workshop/production/frontend
+    newName: localhost:5001/dvn-workshop/production/frontend
     newTag: sha-8ee10e2
 
 labels:
