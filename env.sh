@@ -1,10 +1,4 @@
 #!bash
-# export AWS_REGION=$(aws configure get region --profile default)
-# export AWS_ACCESS_KEY_ID=$(aws configure get aws_access_key_id --profile default)
-# export AWS_SECRET_ACCESS_KEY=$(aws configure get aws_secret_access_key --profile default)
-# export AWS_API_MCP_PROFILE_NAME=default
-
-
 export AWS_REGION=us-east-1
 export AWS_ACCESS_KEY_ID=test
 export AWS_SECRET_ACCESS_KEY=test

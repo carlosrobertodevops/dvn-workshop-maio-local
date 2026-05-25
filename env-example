@@ -1,0 +1,24 @@
+
+NODE_ENV=development
+STAGE=local
+SERVICE_NAME=serverless-elb
+
+AWS_ACCESS_KEY_ID=test
+AWS_SECRET_ACCESS_KEY=test
+AWS_DEFAULT_REGION=us-east-1
+AWS_ROLE_ARN=
+AWS_REGION=us-east-1
+GITHUB_OUTPUT=
+ECR_REGISTRY=
+
+LOCALSTACK_HOST=http://localhost
+EDGE_PORT=4566
+AWS_ENDPOINT_URL=http://localhost:4566
+LOCALSTACK_HOSTNAME=localhost
+
+LAMBDA_RUNTIME=nodejs20.x
+
+SERVERLESS_DEPLOYMENT_BUCKET=testbucket
+
+# Deve vir do Terraform:
+HTTP_LISTENER_ARN=arn:aws:elasticloadbalancing:us-east-1:000000000000:listener/app/seu-alb/seu-id/seu-listener-id
