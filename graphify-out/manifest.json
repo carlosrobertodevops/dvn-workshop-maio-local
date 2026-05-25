@@ -1,0 +1,307 @@
+{
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.mcp.json": {
+    "mtime": 1779644760.6770217,
+    "ast_hash": "50d53dc19c4961423f72674f30dfb090",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/env.sh": {
+    "mtime": 1779745109.4880853,
+    "ast_hash": "e861b6a9d6af24590c0fb920792c246a",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/scripts/eks_mcp_server_fixed.py": {
+    "mtime": 1779644760.675772,
+    "ast_hash": "164f3bbc7b48869d96195aea616702f7",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/next.config.mjs": {
+    "mtime": 1779644760.6797867,
+    "ast_hash": "a7ffd1ed5129f5f20e051ddcd4323cfa",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/tailwind.config.ts": {
+    "mtime": 1779644760.6818566,
+    "ast_hash": "f2628ece92fd0607a562bcc4e0483791",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/package.json": {
+    "mtime": 1779644760.68046,
+    "ast_hash": "82582af514062162db2a4259fba220cc",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/tsconfig.json": {
+    "mtime": 1779644760.6819708,
+    "ast_hash": "3bd7a3770c6b44dbcaab1d2f175db8bd",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/postcss.config.js": {
+    "mtime": 1779644760.6805718,
+    "ast_hash": "8640f9b2e6475cc3f5b1ff4548925765",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/.eslintrc.json": {
+    "mtime": 1779644760.6794171,
+    "ast_hash": "9b8be5ef96ddd69ecd1ddc1554c61a88",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/src/app/layout.tsx": {
+    "mtime": 1779644760.6816065,
+    "ast_hash": "824fd92e1d5c94013d5ae22155dc3000",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/src/app/page.tsx": {
+    "mtime": 1779732562.2802145,
+    "ast_hash": "3bb37df168864287aab63f4b4cbcf782",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/src/app/api/health/route.ts": {
+    "mtime": 1779644760.6812024,
+    "ast_hash": "b935e50780f4db73ae9f1033b913c909",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/WeatherForecast.cs": {
+    "mtime": 1779644760.678546,
+    "ast_hash": "247884bdde54be72033ddd8f39ca5cf1",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/appsettings.json": {
+    "mtime": 1779644760.6789205,
+    "ast_hash": "732f4d75514e890746f0170256ed9654",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/appsettings.Development.json": {
+    "mtime": 1779644760.6787958,
+    "ast_hash": "477a525a47fc9bdbbf94690e6633d843",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/Program.cs": {
+    "mtime": 1779644760.6782436,
+    "ast_hash": "fc3f188864998f11d18d8059136d3ad3",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/Properties/launchSettings.json": {
+    "mtime": 1779644760.6784277,
+    "ast_hash": "239dfec321fdbeec1d668b5c1f323320",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/backend/YoutubeLiveApp/Controllers/WeatherForecastController.cs": {
+    "mtime": 1779732562.2796917,
+    "ast_hash": "035cba7077adf228dfc18a87eea31776",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/README.md": {
+    "mtime": 1779744917.5970469,
+    "ast_hash": "2d3a32d6992034f32ab9f49e825b3e63",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/CLAUDE.md": {
+    "mtime": 1779732562.2773387,
+    "ast_hash": "de1fa86e51c7a3f158190482ab73f30c",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/kustomization.yaml": {
+    "mtime": 1779732562.2825072,
+    "ast_hash": "abc8e31427053aa548b6801e8c169936",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/argocd-application.yaml": {
+    "mtime": 1779732562.2805367,
+    "ast_hash": "a3ca49b50477e05eefb4f7cdfb8116d3",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/frontend/deployment.yaml": {
+    "mtime": 1779732562.2815382,
+    "ast_hash": "c3a1da7fa15b138d175a7d3e38bc22e4",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/frontend/pdb.yaml": {
+    "mtime": 1779732562.2817597,
+    "ast_hash": "42ac3df577f39a4bc65ee0200ea2d5c4",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/frontend/service.yaml": {
+    "mtime": 1779732562.2821195,
+    "ast_hash": "555d24250e741f9541830db36fa9f14d",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/backend/deployment.yaml": {
+    "mtime": 1779732562.280822,
+    "ast_hash": "2cf9813bd4316468bdb5c5120322f349",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/backend/pdb.yaml": {
+    "mtime": 1779732562.2810683,
+    "ast_hash": "6b220414c614947059fec8bd5e086a4f",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/backend/service.yaml": {
+    "mtime": 1779732562.2812905,
+    "ast_hash": "61d3d7d8911306d5a156ca77e545170b",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-terraform/docs/implementation/IMPL-ADR-0001-2026-05-23.md": {
+    "mtime": 1779644760.6869838,
+    "ast_hash": "0468daa16c7e1820c9cd321cd19ce61d",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-terraform/docs/implementation/IMPL-ADR-0003-2026-05-24.md": {
+    "mtime": 1779644760.6872473,
+    "ast_hash": "abba81dfbc57eef5f156b3904471bdc2",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-terraform/docs/implementation/IMPL-ADR-0002-2026-05-23.md": {
+    "mtime": 1779644760.6871347,
+    "ast_hash": "075fb718a27d9b895b317357817a0580",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agents/devops-senior-engineer.md": {
+    "mtime": 1779644760.6748512,
+    "ast_hash": "71499f5a7e2a5ce53e7812aac85c1ac1",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agents/devops-solution-architect.md": {
+    "mtime": 1779644760.6750457,
+    "ast_hash": "ad59cfa09d36d26a9e31e8e4bb941c0b",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-solution-architect/project_aws_account_info.md": {
+    "mtime": 1779732562.2757533,
+    "ast_hash": "65b9899a636ce6a7983252020faf8a6c",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-solution-architect/project_cicd_pipeline_adrs.md": {
+    "mtime": 1779732562.2760623,
+    "ast_hash": "6c85fff8e459b19a61a4f690228d1c31",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-solution-architect/MEMORY.md": {
+    "mtime": 1779732562.275443,
+    "ast_hash": "aafaf42c17513e0b1dfae8fc5974faad",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-adr-implementer/project_remote_backend.md": {
+    "mtime": 1779644760.6735647,
+    "ast_hash": "371383067a662994054e5c94ae29531f",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-adr-implementer/MEMORY.md": {
+    "mtime": 1779644760.6733847,
+    "ast_hash": "3bb45ee65246f126195fb945b1504c54",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/feedback_naming_conventions.md": {
+    "mtime": 1779644760.673922,
+    "ast_hash": "248fd78a2bfb4758f04749bd38c64611",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/project_remote_backend.md": {
+    "mtime": 1779644760.6745193,
+    "ast_hash": "535ef3f5c7b15ecfba002712a46ed9a4",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/project_networking_stack.md": {
+    "mtime": 1779644760.6742353,
+    "ast_hash": "5bc5bd6e56697495fcc14ccf992e2fd3",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/MEMORY.md": {
+    "mtime": 1779732562.274797,
+    "ast_hash": "53ab6b88b4953c1d335836bace710fae",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/project_cicd_stack.md": {
+    "mtime": 1779732562.275109,
+    "ast_hash": "c1fa126cb2c0212d31d21b56f3f81c74",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/agent-memory/devops-senior-engineer/project_eks_stack.md": {
+    "mtime": 1779644760.6740692,
+    "ast_hash": "8c7ac6a32acf431bb6de888b8af261be",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/rules/kubernetes-manifests.md": {
+    "mtime": 1779732562.276381,
+    "ast_hash": "e462f7a3d3d24c4067ebac70b0e18f0f",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/rules/terraform-naming-conventions.md": {
+    "mtime": 1779644760.6753235,
+    "ast_hash": "76adca80d9e33915106dc0e13174e973",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/skills/terraform-deploy/SKILL.md": {
+    "mtime": 1779644760.6766891,
+    "ast_hash": "657b9f86410f6f029046671b253aafce",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/skills/dockerfile-generator/SKILL.md": {
+    "mtime": 1779644760.676444,
+    "ast_hash": "2bbf6b3ad636c361b1eded471d4a38c1",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.claude/skills/docker-push-ecr/SKILL.md": {
+    "mtime": 1779644760.6761386,
+    "ast_hash": "2513f022f71133f632aa0845b8e4b4d6",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0005-pipeline-github-actions-ci-cd.md": {
+    "mtime": 1779732562.2786195,
+    "ast_hash": "d2d7ba61e10827a5b379dec3bfe637c6",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0002-remote-backend.md": {
+    "mtime": 1779738557.73535,
+    "ast_hash": "f96c2b1ccd5ef537fe73d588331c1f36",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0004-oidc-provider-iam-roles-github-aws.md": {
+    "mtime": 1779732562.2783415,
+    "ast_hash": "aa2d2129a2c4bd9f0a92d165052159cc",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0003-eks-cluster.md": {
+    "mtime": 1779732562.277801,
+    "ast_hash": "52bebced170ad5ddea72a5516132e34c",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0006-argocd-gitops-deployment.md": {
+    "mtime": 1779732562.278884,
+    "ast_hash": "dae44e887e904e1ee542b37d8ab10278",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/ADR-0001-networking-stack-vpc-multi-az.md": {
+    "mtime": 1779732562.2775102,
+    "ast_hash": "98d2fe396b72e077a1bbfcc5a632219a",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/implementation/IMPL-ADR-0004-0005-0006-2026-05-24.md": {
+    "mtime": 1779732562.2792149,
+    "ast_hash": "0e77fd2fe413eab46d9af0fcdfcb5f85",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/.github/workflows/ci-cd.yml": {
+    "mtime": 1779732562.2769058,
+    "ast_hash": "5e1c1a7becfecc028782ca90eb9b801a",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/README.md": {
+    "mtime": 1779644760.6796849,
+    "ast_hash": "1687e9644651956395451500ea629e95",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/WhatsApp Image 2026-05-25 at 15.23.15.jpeg": {
+    "mtime": 1779733449.19385,
+    "ast_hash": "c3240f41fa86642bf56812bd55305463",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/public/vercel.svg": {
+    "mtime": 1779644760.680859,
+    "ast_hash": "61c6b19abff40ea7acd577be818f3976",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps/frontend/youtube-live-app/public/next.svg": {
+    "mtime": 1779644760.680743,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  }
+}
