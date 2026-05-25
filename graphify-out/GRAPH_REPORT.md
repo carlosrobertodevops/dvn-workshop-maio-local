@@ -1,16 +1,16 @@
 # Graph Report - dvn-workshop-maio  (2026-05-25)
 
 ## Corpus Check
-- 49 files · ~37,420 words
+- 51 files · ~105,694 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 645 nodes · 598 edges · 51 communities (42 shown, 9 thin omitted)
+- 647 nodes · 598 edges · 53 communities (44 shown, 9 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `004f6451`
+- Built from commit: `2c824561`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -69,7 +69,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (51 total, 9 thin omitted)
+## Communities (53 total, 9 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.05
