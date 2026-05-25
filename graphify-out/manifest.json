@@ -100,8 +100,8 @@
     "semantic_hash": ""
   },
   "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/kustomization.yaml": {
-    "mtime": 1779748517.1205492,
-    "ast_hash": "6efa1d31a25bafcbd9439f22d9e88a82",
+    "mtime": 1779750112.519487,
+    "ast_hash": "b4f462f51ecaf8c76def9cc0f3d07612",
     "semantic_hash": ""
   },
   "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-kubernetes/argocd-application.yaml": {
@@ -312,6 +312,16 @@
   "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/docs/dvn-workshop-manual-passo-a-passo.png": {
     "mtime": 1779747572.967454,
     "ast_hash": "f615a2e06d7b3886ee0296729d7b4416",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps-back.sh": {
+    "mtime": 1779750189.8717735,
+    "ast_hash": "4533fc2993531f782088e72bbe3873d6",
+    "semantic_hash": ""
+  },
+  "/Users/carlosroberto/Workspace/Projetos/devops/dvn/dvn-workshop-maio/dvn-workshop-apps-front.sh": {
+    "mtime": 1779750200.4494119,
+    "ast_hash": "db52bb69826f32e08860f57430406120",
     "semantic_hash": ""
   }
 }
