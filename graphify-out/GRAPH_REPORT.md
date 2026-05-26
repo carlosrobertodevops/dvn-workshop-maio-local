@@ -1,16 +1,16 @@
 # Graph Report - dvn-workshop-maio  (2026-05-25)
 
 ## Corpus Check
-- 51 files · ~105,694 words
+- 55 files · ~105,896 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 647 nodes · 598 edges · 53 communities (44 shown, 9 thin omitted)
+- 657 nodes · 604 edges · 57 communities (45 shown, 12 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `2c824561`
+- Built from commit: `22ca59d0`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -53,6 +53,10 @@
 - [[_COMMUNITY_Community 37|Community 37]]
 - [[_COMMUNITY_Community 38|Community 38]]
 - [[_COMMUNITY_Community 39|Community 39]]
+- [[_COMMUNITY_Community 53|Community 53]]
+- [[_COMMUNITY_Community 54|Community 54]]
+- [[_COMMUNITY_Community 55|Community 55]]
+- [[_COMMUNITY_Community 56|Community 56]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `compilerOptions` - 15 edges
@@ -69,7 +73,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (53 total, 9 thin omitted)
+## Communities (57 total, 12 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.05
@@ -187,10 +191,14 @@ Nodes (4): code:bash (npm run dev), Deploy on Vercel, Getting Started, Learn Mor
 Cohesion: 0.40
 Nodes (4): Logging, LogLevel, Default, Microsoft.AspNetCore
 
+### Community 38 - "Community 38"
+Cohesion: 0.50
+Nodes (3): code:bash (# 1. Kubernetes / Argo CD), Destruir a infra estrutura toda, dvn-workshop-maio-local
+
 ## Knowledge Gaps
-- **418 isolated node(s):** `command`, `args`, `command`, `args`, `command` (+413 more)
+- **422 isolated node(s):** `code:bash (# 1. Kubernetes / Argo CD)`, `code:bash (tflocal init -reconfigure)`, `code:bash (tflocal init -reconfigure)`, `code:bash (tflocal init -reconfigure)`, `code:bash (tflocal init -reconfigure)` (+417 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **12 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
@@ -198,9 +206,9 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `ADR-0002: Remote Backend — S3 com Native Locking para Terraform State` connect `Community 1` to `Community 20`?**
   _High betweenness centrality (0.006) - this node is a cross-community bridge._
 - **Why does `ADR-0003: EKS Cluster com Managed Node Group para Workloads de Container` connect `Community 3` to `Community 16`?**
-  _High betweenness centrality (0.006) - this node is a cross-community bridge._
-- **What connects `command`, `args`, `command` to the rest of the system?**
-  _419 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.005) - this node is a cross-community bridge._
+- **What connects `code:bash (# 1. Kubernetes / Argo CD)`, `code:bash (tflocal init -reconfigure)`, `code:bash (tflocal init -reconfigure)` to the rest of the system?**
+  _423 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.046511627906976744 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**

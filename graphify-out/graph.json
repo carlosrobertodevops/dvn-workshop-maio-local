@@ -4,22 +4,130 @@
   "graph": {},
   "nodes": [
     {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 38,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "dvn-workshop-maio-local",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "dvn_workshop_maio_readme_dvn_workshop_maio_local",
+      "community": 38,
+      "norm_label": "dvn-workshop-maio-local"
+    },
+    {
+      "label": "Destruir a infra estrutura toda",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "id": "dvn_workshop_maio_readme_destruir_a_infra_estrutura_toda",
+      "community": 38,
+      "norm_label": "destruir a infra estrutura toda"
+    },
+    {
+      "label": "code:bash (# 1. Kubernetes / Argo CD)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L12",
+      "id": "dvn_workshop_maio_readme_codeblock_1",
+      "community": 38,
+      "norm_label": "code:bash (# 1. kubernetes / argo cd)"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/00-remote-backend-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "dvn_workshop_terraform_00_remote_backend_stack_ai_readme_md",
+      "community": 53,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "code:bash (tflocal init -reconfigure)",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/00-remote-backend-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "00_remote_backend_stack_ai_readme_codeblock_1",
+      "community": 53,
+      "norm_label": "code:bash (tflocal init -reconfigure)"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/01-networking-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "dvn_workshop_terraform_01_networking_stack_ai_readme_md",
+      "community": 54,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "code:bash (tflocal init -reconfigure)",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/01-networking-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "01_networking_stack_ai_readme_codeblock_1",
+      "community": 54,
+      "norm_label": "code:bash (tflocal init -reconfigure)"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/02-eks-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "dvn_workshop_terraform_02_eks_stack_ai_readme_md",
+      "community": 55,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "code:bash (tflocal init -reconfigure)",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/02-eks-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "02_eks_stack_ai_readme_codeblock_1",
+      "community": 55,
+      "norm_label": "code:bash (tflocal init -reconfigure)"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/03-ci-cd-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "dvn_workshop_terraform_03_ci_cd_stack_ai_readme_md",
+      "community": 56,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "code:bash (tflocal init -reconfigure)",
+      "file_type": "document",
+      "source_file": "dvn-workshop-terraform/03-ci-cd-stack-ai/README.md",
+      "source_location": "L1",
+      "id": "03_ci_cd_stack_ai_readme_codeblock_1",
+      "community": 56,
+      "norm_label": "code:bash (tflocal init -reconfigure)"
+    },
+    {
       "label": "dvn-workshop-apps-back.sh",
       "file_type": "code",
       "source_file": "dvn-workshop-apps-back.sh",
       "source_location": "L1",
-      "id": "dvn_workshop_apps_back_sh",
       "community": 51,
-      "norm_label": "dvn-workshop-apps-back.sh"
+      "norm_label": "dvn-workshop-apps-back.sh",
+      "id": "dvn_workshop_apps_back_sh"
     },
     {
       "label": "dvn-workshop-apps-front.sh",
       "file_type": "code",
       "source_file": "dvn-workshop-apps-front.sh",
       "source_location": "L1",
-      "id": "dvn_workshop_apps_front_sh",
       "community": 52,
-      "norm_label": "dvn-workshop-apps-front.sh"
+      "norm_label": "dvn-workshop-apps-front.sh",
+      "id": "dvn_workshop_apps_front_sh"
     },
     {
       "label": ".mcp.json",
@@ -1226,24 +1334,6 @@
       "community": 25,
       "norm_label": ".get()",
       "id": "controllers_weatherforecastcontroller_weatherforecastcontroller_get"
-    },
-    {
-      "label": "README.md",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "community": 38,
-      "norm_label": "readme.md",
-      "id": "readme_md"
-    },
-    {
-      "label": "dvn-workshop-maio-local",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "community": 38,
-      "norm_label": "dvn-workshop-maio-local",
-      "id": "dvn_workshop_maio_readme_dvn_workshop_maio_local"
     },
     {
       "label": "CLAUDE.md",
@@ -5831,6 +5921,76 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_md",
+      "target": "dvn_workshop_maio_readme_dvn_workshop_maio_local"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "dvn_workshop_maio_readme_dvn_workshop_maio_local",
+      "target": "dvn_workshop_maio_readme_destruir_a_infra_estrutura_toda",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "dvn_workshop_maio_readme_destruir_a_infra_estrutura_toda",
+      "target": "dvn_workshop_maio_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "dvn-workshop-terraform/00-remote-backend-stack-ai/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "dvn_workshop_terraform_00_remote_backend_stack_ai_readme_md",
+      "target": "00_remote_backend_stack_ai_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "dvn-workshop-terraform/01-networking-stack-ai/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "dvn_workshop_terraform_01_networking_stack_ai_readme_md",
+      "target": "01_networking_stack_ai_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "dvn-workshop-terraform/02-eks-stack-ai/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "dvn_workshop_terraform_02_eks_stack_ai_readme_md",
+      "target": "02_eks_stack_ai_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "dvn-workshop-terraform/03-ci-cd-stack-ai/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "dvn_workshop_terraform_03_ci_cd_stack_ai_readme_md",
+      "target": "03_ci_cd_stack_ai_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": ".mcp.json",
       "source_location": "L2",
       "weight": 1.0,
@@ -7009,16 +7169,6 @@
       "confidence_score": 1.0,
       "source": "controllers_weatherforecastcontroller_weatherforecastcontroller",
       "target": "controllers_weatherforecastcontroller_weatherforecastcontroller_get"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_md",
-      "target": "dvn_workshop_maio_readme_dvn_workshop_maio_local"
     },
     {
       "relation": "contains",
@@ -11812,5 +11962,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "2c824561e4785cf687e0d1086daf730e70bb8c3c"
+  "built_at_commit": "22ca59d0fa457cec91c4037ad14a6dcbc2e81b60"
 }
